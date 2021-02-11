@@ -19,7 +19,7 @@ Circle is a full-stack, well rounded restaurant management application. It allow
 ![Main Page](public/assets/main.gif)
 -----------------------
 ## Deployed link
-[add heroku link here]
+[Circle Restaurant Management](https://circle-restaurant-mgmt.herokuapp.com/)
 
 -----------------------
 ## Installation
@@ -38,8 +38,9 @@ To run this tool use the following command.
 node server.js
 ```
 
-admin credentials: 
-username: admin
+<b><u>Admin Credentials: </b></u>
+<br>
+username: admin <br>
 password: password
 
 -----------------------
